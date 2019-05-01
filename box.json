@@ -1,8 +1,8 @@
 {
     "name":"ContentBox Theme - Basic Bootstrap",
-    "version":"0.1.0",
+    "version":"0.2.0",
     "slug":"cbtheme-basicbootstrap",
-    "location"  : "https://github.com/gpickin/contentbox-theme-basicbootstrap",
+    "location":"gpickin/contentbox-theme-basicbootstrap#v0.2.0",
     "author":"Ortus Solutions",
     "homepage":"http://www.ortussolutions.com/products/contentbox",
     "documentation":"https://github.com/gpickin/contentbox-theme-basicbootstrap",
@@ -27,18 +27,10 @@
         "onRelease":"publish",
         "postPublish":"!git push && !git push --tags"
     },
-    "contributors":[
-        
-    ],
-    "dependencies":{
-        
-    },
-    "devDependencies":{
-        
-    },
-    "installPaths":{
-        
-    },
+    "contributors":[],
+    "dependencies":{},
+    "devDependencies":{},
+    "installPaths":{},
     "ignore":[
         "**/.*",
         "build.xml",
